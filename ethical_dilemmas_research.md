@@ -1,6 +1,6 @@
 # **Ethical Dilemmas and Moral Judgments in Research**
 
-## 3. **Ethical Dilemmas in Research**
+## 1. **Ethical Dilemmas in Research**
 Researchers often encounter ethical dilemmas that require careful consideration to uphold integrity and trustworthiness in their work.
 
 ### **Key Challenges:**
@@ -20,7 +20,7 @@ Researchers often encounter ethical dilemmas that require careful consideration 
 
 ---
 
-## 4. **Frameworks for Ethical Decision-Making**
+## 2. **Frameworks for Ethical Decision-Making**
 Using structured approaches helps researchers navigate ethical challenges effectively.
 
 ### **Decision-Making Framework:**
@@ -42,7 +42,7 @@ Using structured approaches helps researchers navigate ethical challenges effect
 
 ---
 
-## 5. **Moral Judgments in Research**
+## 3. **Moral Judgments in Research**
 Moral judgments involve evaluating actions as right or wrong based on ethical principles.
 
 ### **Types of Moral Judgments:**
@@ -62,7 +62,7 @@ Moral judgments involve evaluating actions as right or wrong based on ethical pr
 
 ---
 
-## 6. **Ethical Decision-Making in Research**
+## 4. **Ethical Decision-Making in Research**
 Making ethical decisions in research involves:
 
 ### **Key Considerations:**
